@@ -1,8 +1,8 @@
 # 🏄‍♂️ Fagbayibo Michael Oluwasegun
 
-**`Frontend Developer (Developer/Keyboardist)`**
+**`Badass Software Developer / Reverse-Engineer`**
 
-I'm an indie frontend developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+A pro developer/reverse engineer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
